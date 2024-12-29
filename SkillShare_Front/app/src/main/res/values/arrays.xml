@@ -1,0 +1,42 @@
+<resources>
+    <string-array name="cities_array">
+        <item>Agadir</item>
+        <item>Ait Melloul</item>
+        <item>Al Hoceima</item>
+        <item>Azrou</item>
+        <item>Beni Mellal</item>
+        <item>Berrechid</item>
+        <item>Casablanca</item>
+        <item>Chefchaouen</item>
+        <item>El Jadida</item>
+        <item>Errachidia</item>
+        <item>Essaouira</item>
+        <item>Fès</item>
+        <item>Guelmim</item>
+        <item>Kenitra</item>
+        <item>Khémisset</item>
+        <item>Khénifra</item>
+        <item>Khouribga</item>
+        <item>Laâyoune</item>
+        <item>Larache</item>
+        <item>Marrakech</item>
+        <item>Meknès</item>
+        <item>Nador</item>
+        <item>Ouarzazate</item>
+        <item>Oujda</item>
+        <item>Rabat</item>
+        <item>Safi</item>
+        <item>Salé</item>
+        <item>Sefrou</item>
+        <item>Settat</item>
+        <item>Sidi Bennour</item>
+        <item>Sidi Kacem</item>
+        <item>Sidi Slimane</item>
+        <item>Tangier</item>
+        <item>Tarfaya</item>
+        <item>Taroudant</item>
+        <item>Taza</item>
+        <item>Tetouan</item>
+        <item>Youssoufia</item>
+    </string-array>
+</resources>
