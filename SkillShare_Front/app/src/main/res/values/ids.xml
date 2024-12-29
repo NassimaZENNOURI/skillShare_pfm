@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="priceRangeSlider" type="id" />
+    <item name="minPriceText" type="id" />
+    <item name="maxPriceText" type="id" />
+    <item name="applyFiltersButton" type="id" />
+    <item name="cityInputLayout" type="id" />
+    <item name="cityAutoComplete" type="id" />
+    <item name="categoryChipGroup" type="id" />
+</resources>

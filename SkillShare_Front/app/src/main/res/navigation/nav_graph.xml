@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="ma.ensaj.skillshare_front.view.fragment.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/navigation_filter"
+        android:name="ma.ensaj.skillshare_front.view.fragment.FilterFragment"
+        android:label="Filter" />
+
+    <fragment
+        android:id="@+id/navigation_post"
+        android:name="ma.ensaj.skillshare_front.view.fragment.PostFragment"
+        android:label="Post" />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="ma.ensaj.skillshare_front.view.fragment.NotificationFragment"
+        android:label="Notification" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="ma.ensaj.skillshare_front.view.fragment.ProfileFragment"
+        android:label="Profile" />
+
+    <fragment
+        android:id="@+id/navigation_result"
+        android:name="ma.ensaj.skillshare_front.view.fragment.SearchResultsFragment"
+        android:label="Result" />
+
+
+    <fragment
+        android:id="@+id/navigation_reservation"
+        android:name="ma.ensaj.skillshare_front.view.fragment.ReservationFragment"
+        android:label="Reservation" />
+
+    <fragment
+        android:id="@+id/navigation_search_results"
+        android:name="ma.ensaj.skillshare_front.view.fragment.SearchResultsFragment"
+        android:label="Search Results">
+        <argument
+            android:name="search_query"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/servicesFragment"
+        android:name="ma.ensaj.skillshare_front.view.fragment.ServicesFragment"
+        android:label="ServicesFragment" />
+
+</navigation>

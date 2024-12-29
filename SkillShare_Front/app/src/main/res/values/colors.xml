@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="accent">#03A9F4</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="desactive">#39F85A</color>
+    <color name="secondaryColor">#FFC107</color>
+    <color name="secondaryLightColor">#FFD54F</color>
+    <color name="secondaryDarkColor">#FFA000</color>
+    <color name="redColor">#F21717</color>
+
+    <color name="input_background">#F5F5F5</color>
+    <color name="acceptColor">#55c55e</color>
+
+
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="icon_color">#757575</color>
+
+    <color name="card_inner_background">#FFFFFF</color>
+    <color name="gradient_start">#3EF87C</color>
+    <color name="gradient_end">#2196F3</color>
+    <color name="icon_tint">#FFFFFF</color>
+    <color name="icon_background">#00AFEE</color>
+    <color name="arrow_background">#F5F5F5</color>
+    <color name="accent_color">#00B6EE</color>
+
+
+    <color name="background_color">#F5F5F5</color>
+
+    <color name="secondary">#3EF87C</color>
+    <color name="secondary_light">#CBFDFA</color>
+    <color name="text_secondary">#757575</color>
+    <color name="stroke_color">#E0E0E0</color>
+    <color name="ripple_color">#33000000</color>
+
+    <color name="price_color">#2E7D32</color>
+    <color name="category_chip_background">#E3F2FD</color>
+
+    <color name="chip_background_color">#E3F2FD</color>
+    <color name="chip_text_color">#1976D2</color>
+    <color name="chip_icon_color">#1976D2</color>
+    <color name="divider">#EEEEEE</color>
+</resources>
